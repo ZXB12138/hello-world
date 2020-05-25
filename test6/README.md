@@ -70,33 +70,17 @@
 ## 6.界面设计
 ---
 
-- [登录界面](image/ui/login.png)
+- [登录界面](image/ui/login.html)
 
-- [设置Github地址界面](image/ui/setGithub.png)
+- [首页界面](image/ui/index.html)
 
-- [选择课程和上课学期界面](image/ui/setCourse.png)
+- [查看实验成绩界面](image/ui/test-student.html)
 
-- [查看实验界面](image/ui/searchTest.png)
+- [发布实验界面](image/ui/test-sub.html)
 
-- [查看实验成绩界面](image/ui/searchGrades.png)
+- [评定成绩界面](image/ui/test-teacher.html)
 
-- [查看课程成绩界面](image/ui/searchCourseGrades.png)
-
-- [修改密码界面](image/ui/rePwd.png)
-
-- [发布实验界面](image/ui/publishTest.png)
-
-- [修改实验界面](image/ui/updateTest.png)
-
-- [获取用户信息界面](image/ui/getUserInfo.png)
-
-- [学生获取学生列表界面](image/ui/getStudents2.png)
-
-- [老师获取学生列表界面](image/ui/getStudents.png)
-
-- [评定成绩界面](image/ui/enterGrades.png)
-
-## 6.用例及界面详细设计
+## 7.用例
 ---
 
 - [学生列表用例](itemMD/yl/students.md)
