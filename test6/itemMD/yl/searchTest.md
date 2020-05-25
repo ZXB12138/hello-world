@@ -15,7 +15,6 @@
 ![sequence1](../../image/hd/searchTest.png) 
 
 ## 3. 界面设计
-- 界面参照: [searchTestUI](../../image/ui/searchTest.png)
 - API接口调用
     - 接口设计：[searchTest](../../api/searchTest.md) 
 
