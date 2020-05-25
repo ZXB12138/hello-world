@@ -15,7 +15,6 @@
 ![sequence1](../../image/hd/setGithub.png) 
 
 ## 3. 界面设计
-- 界面参照: [searchTestUI](../../image/ui/setGithub.png)
 - API接口调用
     - 接口设计：[searchTest](../../api/setGithub.md) 
 
