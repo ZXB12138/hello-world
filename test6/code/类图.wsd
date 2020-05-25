@@ -1,5 +1,4 @@
 @startuml
-title 类图
 class users {
     <b>user_id</b> （用户ID）
     name （用户真实姓名）
