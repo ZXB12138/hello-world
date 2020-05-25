@@ -70,15 +70,15 @@
 ## 6.界面设计
 ---
 
-- [登录界面](image/ui/login.html)
+- [登录界面](https://zxb12138.github.io/is_analysis/test6/image/ui/login.html)
 
-- [首页界面](image/ui/index.html)
+- [首页界面](https://zxb12138.github.io/is_analysis/test6/image/ui/index.html)
 
-- [查看实验成绩界面](image/ui/test-student.html)
+- [查看实验成绩界面](https://zxb12138.github.io/is_analysis/test6/image/ui/test-student.html)
 
-- [发布实验界面](image/ui/test-sub.html)
+- [发布实验界面](https://zxb12138.github.io/is_analysis/test6/image/ui/test-sub.html)
 
-- [评定成绩界面](image/ui/test-teacher.html)
+- [评定成绩界面](https://zxb12138.github.io/is_analysis/test6/image/ui/test-teacher.html)
 
 ## 7.用例
 ---
