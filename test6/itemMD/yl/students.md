@@ -15,9 +15,6 @@
 ![sequence1](../../image/hd/students.png) 
 
 ## 3. 界面设计
-- 界面参照: 
-    - 老师查看所有学生信息[getStudentsUI](../../image/ui/getStudents.png)
-    - 学生查看所有学生信息[getStudentsUI](../../image/ui/getStudents2.png)
 - API接口调用
     - 接口设计：[getStudents](../../api/getStudents.md) 
 
